@@ -1,4 +1,4 @@
-StaticPage 静态页面自动化工具
+﻿StaticPage 静态页面自动化工具
 ==========
 ![banner](http://file.is26.com/wp-image/2014/03/smart-with-static.jpg)
 
@@ -9,12 +9,8 @@ StaticPage是一套旨在提高静态页面开发效率、快速生成模板、�
 图文教程可参考博文:[《让前端工作更快、更智能:利用StaticPage自动化工作流》](http://luolei.org/2014/03/front-end-dev-with-grunt-staticpage-workflow/)。
 
 
-####一键脚本安装包
-
-2014年3月27日更新:为了让大家更加方便，写了一个脚本，直接在终端运行以下命令就可以一键(1.git clone 2.重命名 3.修改项目配置 等)配置好所有的文件，不用再一个一个打开文件修改文件。脚本为`go.sh`文件，OSX系统下`sh go.sh`即可执行，大家看下就能理解。
-
 ````
-git clone https://github.com/foru17/StaticPage.git && cd StaticPage && sh go.sh
+git clone https://github.com/Yuota/StaticPage.git && cd StaticPage && sh go.sh
 ````
 
 ####克隆本仓库
@@ -22,7 +18,7 @@ git clone https://github.com/foru17/StaticPage.git && cd StaticPage && sh go.sh
 在开发目录下执行：
 
 ````
-git clone https://github.com/foru17/StaticPage.git
+git clone https://github.com/Yuota/StaticPage.git
 ````
 
 访问Github较慢的同学可使用该仓库在阿里云的镜像，该镜像与Github上自动同步。
