@@ -1,5 +1,4 @@
-﻿测试skey
-StaticPage 静态页面自动化工具
+﻿StaticPage 静态页面自动化工具
 ==========
 ![banner](http://file.is26.com/wp-image/2014/03/smart-with-static.jpg)
 
